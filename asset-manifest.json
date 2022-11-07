@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nextTrends/static/css/main.6b5c30ef.chunk.css",
-    "main.js": "/nextTrends/static/js/main.72108e3a.chunk.js",
-    "main.js.map": "/nextTrends/static/js/main.72108e3a.chunk.js.map",
-    "runtime-main.js": "/nextTrends/static/js/runtime-main.42bd6953.js",
-    "runtime-main.js.map": "/nextTrends/static/js/runtime-main.42bd6953.js.map",
-    "static/js/2.117886ea.chunk.js": "/nextTrends/static/js/2.117886ea.chunk.js",
-    "static/js/2.117886ea.chunk.js.map": "/nextTrends/static/js/2.117886ea.chunk.js.map",
-    "index.html": "/nextTrends/index.html",
-    "static/css/main.6b5c30ef.chunk.css.map": "/nextTrends/static/css/main.6b5c30ef.chunk.css.map",
-    "static/js/2.117886ea.chunk.js.LICENSE.txt": "/nextTrends/static/js/2.117886ea.chunk.js.LICENSE.txt"
+    "main.css": "/nextTrends/src/index.js/static/css/main.6b5c30ef.chunk.css",
+    "main.js": "/nextTrends/src/index.js/static/js/main.72108e3a.chunk.js",
+    "main.js.map": "/nextTrends/src/index.js/static/js/main.72108e3a.chunk.js.map",
+    "runtime-main.js": "/nextTrends/src/index.js/static/js/runtime-main.c81778d5.js",
+    "runtime-main.js.map": "/nextTrends/src/index.js/static/js/runtime-main.c81778d5.js.map",
+    "static/js/2.117886ea.chunk.js": "/nextTrends/src/index.js/static/js/2.117886ea.chunk.js",
+    "static/js/2.117886ea.chunk.js.map": "/nextTrends/src/index.js/static/js/2.117886ea.chunk.js.map",
+    "index.html": "/nextTrends/src/index.js/index.html",
+    "static/css/main.6b5c30ef.chunk.css.map": "/nextTrends/src/index.js/static/css/main.6b5c30ef.chunk.css.map",
+    "static/js/2.117886ea.chunk.js.LICENSE.txt": "/nextTrends/src/index.js/static/js/2.117886ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42bd6953.js",
+    "static/js/runtime-main.c81778d5.js",
     "static/js/2.117886ea.chunk.js",
     "static/css/main.6b5c30ef.chunk.css",
     "static/js/main.72108e3a.chunk.js"
